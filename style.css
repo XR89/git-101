@@ -1,5 +1,8 @@
-h1	{	
-font-family: Arial;
+#container	{	
+	font-family: Arial;
+}
+body{
+	background-color: darkblue;
 }
 
 #logo {
